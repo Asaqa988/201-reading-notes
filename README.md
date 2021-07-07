@@ -4,10 +4,10 @@ my name is abdulraheem i have 7 years of experience 5 of them in QA and the othe
 # Table of Contents 201
 | Topic  | Link  |
 | :------------ |:---------------:|
-|read01            |https://github.com/Asaqa988/201-reading-notes/Read01.md  |
-|read02            | https://github.com/Asaqa988/201-reading-notes/Read02.md |
-|read03            |https://github.com/Asaqa988/201-reading-notes/Read03.md  |
-|read04            | https://github.com/Asaqa988/201-reading-notes/Read04.md |
+|read01            |https://asaqa988.github.io/201-reading-notes/read01 |
+|read02            | https://asaqa988.github.io/201-reading-notes/read02 |
+|read03            |https://asaqa988.github.io/201-reading-notes/read03  |
+|read04            | https://asaqa988.github.io/201-reading-notes/read04 |
 |read05            |  |
 |read06            |  |
 |read07            |  |
