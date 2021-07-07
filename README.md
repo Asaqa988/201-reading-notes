@@ -1,35 +1,18 @@
-# 201-reading-notes
-
-## HTML 
-for structring the page 
-
-```HTML
-<!DOCTYPE HTML>
-<HTML>
-    
-<head>
-<title> 
-
-security 
-
-</head>
-
-<body>
-
-<header>
-
-</header>
-
-<main>
-
-</main>
-
-<footer>
-
-</footer>
-
-</body>
-
-</HTML>
-
-## CSS cascading stylesheet 
+# Table of Contents 201
+| Topic  | Link  |
+| :------------ |:---------------:|
+|read01            |  |
+|read02            |  |
+|read03            |  |
+|read04            |  |
+|read05            |  |
+|read06            |  |
+|read07            |  |
+|read08            |  |
+|read09            |  |
+|read10            |  |
+|read11            |  |
+|read12            |  |
+|read13            |  |
+|read14            |  |
+|read15            |  |
