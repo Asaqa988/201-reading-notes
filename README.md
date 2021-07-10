@@ -8,8 +8,8 @@ my name is abdulraheem i have 7 years of experience 5 of them in QA and the othe
 |read02            | https://asaqa988.github.io/201-reading-notes/read02 |
 |read03            |https://asaqa988.github.io/201-reading-notes/read03  |
 |read04            | https://asaqa988.github.io/201-reading-notes/read04 |
-|read05            |  |
-|read06            |  |
+|read05            |  https://asaqa988.github.io/201-reading-notes/read05 |
+|read06            |   https://asaqa988.github.io/201-reading-notes/read06|
 |read07            |  |
 |read08            |  |
 |read09            |  |
