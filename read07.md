@@ -1,5 +1,5 @@
 # Tables 
-
+ 
   ![](https://alvinalexander.com/sites/default/files/2018-05/javascript-console-output-logging-debugging.jpg)
   
 
