@@ -1,34 +1,46 @@
-# Images 
+# Tables 
 
-##There are many reasons why you might want to add an image to a web page: you might want to include a logo, photograph, illustration, diagram, or chart.
-## There are several things to consider when selecting and preparing images for your site, but taking time to get them right will make it look more attractive and professional.
+  ![](https://alvinalexander.com/sites/default/files/2018-05/javascript-console-output-logging-debugging.jpg)
+  
 
-### In this chapter you will learn how to: Include an image in your web pages using HTML
+## There are several types of information that need to be displayed in a grid or table. For example:
+- sports results, 
+- stock reports,
+-  train timetables.
+** When representing information in a table, you need to think in terms of a grid made up of rows and columns (a bit like a spreadsheet). In this chapter you will learn how to:
+- Use the four key elements for creating tables
+- Represent complex data using tables
+-  Add captions to tables
 
-●● Pick which image format to use
-●● Show an image at the right size
-●● Optimize an image for use on the web to make pages
-load faster You can also use CSS to include images in your pages using the background-
-![](https://thewebdesign.club/wp-content/uploads/2020/04/how-to-make-a-website-using-html-and-css-website-design-in-html-and-css.jpg)
+### What's a Table?
+- A table represents information in a grid format. Examples of tables include financial reports, TV schedules, and sports results.
 
-# color 
-The color property allows you to specify the color of text inside an element. You can specify an  color in CSS in one of three ways.
-###rgb values
-These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90)
+### Basic Table Structure
+#### table
+- The table element is used to create a table. The contents of the table are written out row by row.
+  
+ #### tr
+- You indicate the start of each row using the opening tr tag. (The tr stands for table row.)
+- It is followed by one or more td elements (one for each cell in that row).
+- At the end of the row you use a closing tr tag.
+  
+  
+  
+ #### td
+Each cell of a table is represented using a <td> element. (The td stands for table data.)
+  
+  
+ # WHAT IS A FUNCTION?
+  - Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
+  
+  ## A BASIC FUNCTION
+  ![](https://th.bing.com/th/id/R.fe5b61d7084e2a7cbc0c412117db9c6e?rik=zwEBBsw2Cisykg&pid=ImgRaw) 
+  
+##   FUNCTION DECLARATION
+A function declaration creates a function that you can ca ll later in your code. It is the type of function you have seen so far in this book.
+  ## FUNCTION EXPRESSION
+  If you put a function where the interpreter would expect to see an expression, then it is treated as an expression, and it is known as a function expression.
+In function expressions, the name is usually omitted. A function with no name is called an anonymous function. Below, the function is stored in a variable
+called area. It can be called like any function created with a function declaration.
 
-### hex codes
-These are six-digit codes that represent the amount of red, green and blue in a color,
-preceded by a pound or hash # sign. For example: #ee3e80
-
-### color names
-
-There are 147 predefined color names that are recognized by browsers. For example: DarkCyan
-![](https://th.bing.com/th/id/OIP.yUvh9BAUkmv4uvIlbuvOmwHaJM?pid=ImgDet&rs=1)
-
-# Text
-
-### The properties that allow you to control the appearance of text can be split into two groups:
-
-- Those that directly affect t ●● he font and its appearance (including the typeface, whether it is regular, bold or italic, and the size of the text).
--  Those that would have the same effect on text no matter what font you were using (including the color of text and the spacing between words and letters).
-![](https://th.bing.com/th/id/R.25e047053481160f0e6377b84efac420?rik=pnuM1iZgYXt60A&pid=ImgRaw)
+  
