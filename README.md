@@ -10,12 +10,12 @@ my name is abdulraheem i have 7 years of experience 5 of them in QA and the othe
 |read04            | https://asaqa988.github.io/201-reading-notes/read04 |
 |read05            |  https://asaqa988.github.io/201-reading-notes/read05 |
 |read06            |   https://asaqa988.github.io/201-reading-notes/read06|
-|read07            |  |
-|read08            |  |
-|read09            |  |
-|read10            |  |
-|read11            |  |
-|read12            |  |
-|read13            |  |
-|read14            |  |
-|read15            |  |
+|read07            |  https://asaqa988.github.io/201-reading-notes/read07|
+|read08            | https://asaqa988.github.io/201-reading-notes/read08 |
+|read09            | https://asaqa988.github.io/201-reading-notes/read09 |
+|read10            | https://asaqa988.github.io/201-reading-notes/read10 |
+|read11            | https://asaqa988.github.io/201-reading-notes/read11|
+|read12            | https://asaqa988.github.io/201-reading-notes/read12|
+|read13            | https://asaqa988.github.io/201-reading-notes/read13 |
+|read14a            |  https://asaqa988.github.io/201-reading-notes/read14a|
+|read14b            |https://asaqa988.github.io/201-reading-notes/read14b  |
