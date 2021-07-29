@@ -43,4 +43,42 @@ A function declaration creates a function that you can ca ll later in your code.
 In function expressions, the name is usually omitted. A function with no name is called an anonymous function. Below, the function is stored in a variable
 called area. It can be called like any function created with a function declaration.
 
-  
+  # CREATING OBJECTS USING CONSTRUCTOR SYNTAX
+ 
+ - On the right, an empty object called hote 1 is created using the constructor function.
+ - Once it has been created, three properties and a method are then assigned to the object.
+ 
+ var hotel = new Object();
+ 
+hotel.name= 'Park';
+ 
+hotel.rooms = 120;
+ 
+hotel .booked = 77;
+ 
+hotel .checkAvailability = function()
+ 
+return this . rooms - this.booked;
+ 
+} ;
+ 
+#### JAVASCRIPT
+ 
+var elName = document.getElementByid('hotelName');
+ 
+elName.textContent = hotel . name;
+ 
+var elRooms = document .getElementByid('rooms');
+ 
+elRooms .textContent = hotel .checkAvailability(};
+ 
+ 
+ 
+ - ( If the object already had any of these properties, this would overwrite the values in those properties.)
+ 
+ - To access a property of this object, you can use dot notation, just as you can with any object.
+
+ * For example, to get the hotel's name you could use: hotel .name
+ 
+ Similarly, to use the method, you can use the object name followed by the method name:
+hotel.checkAvailability()
