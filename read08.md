@@ -76,3 +76,4 @@ Because screen sizes and display resolutions vary so much, web designers often t
 - If the user has a very narrow window, words may be squashed and you can end up with few words on each line.
 
 - If a fixed width item (such as an image) is in a box that is too small to hold it (because the user has made the window smaller) the image can overflow over the text.
+ 
